@@ -1,0 +1,5 @@
+文章_NN 有_VE 骨_NN 撑_VV 天地_NN
+空_AD 悬_VV 北斗_NN 成_VV 天问_NN
+法云_NN 庹_VV 荫_NN 无遮会_VV
+妙理_NN 无_VE 二_CD 悟_NN
+幼年_NN 别_VV 父_NN ，_PU 少年_NN 哭_VV 母_NN ，_PU 伤心_VV 泪_NN 坠_VV 高_JJ 桥_NN ，_PU 念_VV 一_CD 世_M 劬劳_NN ，_PU 半生_NN 苦楚_NN

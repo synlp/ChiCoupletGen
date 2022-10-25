@@ -1,0 +1,5 @@
+广誉_NR 米_NN 王_NN 全_DT 港_NR 籴_PU
+几_CD 架_M 青山_NN 能_VV 歇笔_VV
+樵子_NN 林_NN 中_LC 依_VV 月_NN 醉_VV
+秋风_NN 扶瘦_VV 宫墙柳_NN
+清风_NN 无_VE 渡意_NN
