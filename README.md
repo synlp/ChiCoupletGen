@@ -4,6 +4,7 @@ This is the implementaion for [Chinese Couplet Generation with Syntactic Informa
 
 ## Citation
 
+```
 @inproceedings{song-2022-chinese,
     title = "{C}hinese Couplet Generation with Syntactic Information",
     author = "Song, Yan",
@@ -13,6 +14,7 @@ This is the implementaion for [Chinese Couplet Generation with Syntactic Informa
     address = "Gyeongju, Republic of Korea",
     pages = "6436--6446",
 }
+```
 
 ## Requirements
 
