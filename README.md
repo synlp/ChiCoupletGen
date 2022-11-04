@@ -6,7 +6,7 @@ This is the implementation for [Chinese Couplet Generation with Syntactic Inform
 
 ```
 @inproceedings{song-2022-chinese,
-    title = "{C}hinese Couplet Generation with Syntactic Information",
+    title = "Chinese Couplet Generation with Syntactic Information",
     author = "Song, Yan",
     booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
     month = oct,
