@@ -1,6 +1,6 @@
 # ChiCoupletGen
 
-This is the implementaion for [Chinese Couplet Generation with Syntactic Information](https://aclanthology.org/2022.coling-1.560/) at COLING2022
+This is the implementation for [Chinese Couplet Generation with Syntactic Information](https://aclanthology.org/2022.coling-1.560/) at COLING2022
 
 ## Citation
 
